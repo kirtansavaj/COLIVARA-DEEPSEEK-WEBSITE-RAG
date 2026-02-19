@@ -8,13 +8,6 @@ We use the following tools
 - [Firecrawl](https://www.firecrawl.dev/i/api) for web scraping.
 - Streamlit as the web interface.
 
-## Demo
-
-A demo of the project is available below:
-
-![demo](./video-demo.mp4)
-
----
 ## Setup and installations
 
 **Setup Janus**:
