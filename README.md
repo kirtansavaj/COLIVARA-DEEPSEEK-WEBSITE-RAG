@@ -50,4 +50,4 @@ Finally, run the project by running the following command:
 streamlit run app.py
 ```
 
-AUTHOR - KIRTAN SAVAJ
+AUTHOR - KIRTAN SAVAJ(AI DEVELOPER)
