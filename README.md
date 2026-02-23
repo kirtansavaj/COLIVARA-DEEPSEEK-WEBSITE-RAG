@@ -15,7 +15,7 @@ We use the following tools
 git clone https://github.com/deepseek-ai/Janus.git
 pip install -e ./Janus
 ```
-!!
+
 **Get the API keys**:
 - [ColiVara](https://colivara.com/) for SOTA document understanding and retrieval.
 - [Firecrawl](https://www.firecrawl.dev/i/api) for web scraping.
