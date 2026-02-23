@@ -9,7 +9,7 @@ We use the following tools
 - Streamlit as the web interface.
 
 ## Setup and installations
-
+!!
 **Setup Janus**:
 ```
 git clone https://github.com/deepseek-ai/Janus.git
