@@ -1,7 +1,7 @@
 # MultiModal RAG with ColiVara and DeepSeek-Janus-Pro
 
 This project implements a MultiModal RAG with DeepSeek's latest model Janus-Pro and ColiVara.
-
+!!
 We use the following tools
 - DeepSeek-Janus-Pro as the multi-modal LLM.
 - [ColiVara](https://colivara.com/) for SOTA document understanding and retrieval.
