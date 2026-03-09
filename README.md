@@ -1,5 +1,5 @@
 # MultiModal RAG with ColiVara and DeepSeek-Janus-Pro
-!!
+
 This project implements a MultiModal RAG with DeepSeek's latest model Janus-Pro and ColiVara.
 
 We use the following tools
